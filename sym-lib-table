@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CBUS")(type "KiCad")(uri "${KIPRJMOD}/sym/CBUS.kicad_sym")(options "")(descr ""))
+  (lib (name "conn_02x50_row_letter_first")(type "KiCad")(uri "${KIPRJMOD}/sym/conn_02x50_row_letter_first.kicad_sym")(options "")(descr ""))
+)
